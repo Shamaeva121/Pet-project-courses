@@ -1,0 +1,22 @@
+.header {
+    &__top {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        padding: 44px 0 85px 0;
+    }
+
+    &__top-text {
+        font-size: 16px;
+        letter-spacing: 0.1em;
+        padding: 0 0 16px 0;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+
+    &__top-title {
+        margin: 0;
+        padding: 0;
+        font-size: 46px;
+    }
+}

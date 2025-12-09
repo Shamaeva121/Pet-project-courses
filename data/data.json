@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Marketing",
+    "categoryClass": "category-marketing",
+    "title": "The Ultimate Google Ads Training Course",
+    "price": "$100",
+    "instructor": "Jerome Bell",
+    "imageUrl": "../images/image-1.jpg"
+  },
+  {
+    "category": "Management",
+    "categoryClass": "category-management",
+    "title": "Product Management Fundamentals",
+    "price": "$480",
+    "instructor": "Marvin McKinney",
+    "imageUrl": "../images/image-2.jpg"
+  },
+  {
+    "category": "HR & Recruiting",
+    "categoryClass": "category-hr-recruiting",
+    "title": "HR Management and Analytics",
+    "price": "$200",
+    "instructor": "Leslie Alexander Li",
+    "imageUrl": "../images/image-3.jpg"
+  },
+  {
+    "category": "Marketing",
+    "categoryClass": "category-marketing",
+    "title": "Brand Management & PR Communications",
+    "price": "$530",
+    "instructor": "Kristin Watson",
+    "imageUrl": "../images/image-4.jpg"
+  },
+  {
+    "category": "Design",
+    "categoryClass": "category-design",
+    "title": "Graphic Design Basic",
+    "price": "$500",
+    "instructor": "Guy Hawkins",
+    "imageUrl": "../images/image-5.jpg"
+  },
+  {
+    "category": "Management",
+    "categoryClass": "category-management",
+    "title": "Business Development Management",
+    "price": "$400",
+    "instructor": "Dianne Russell",
+    "imageUrl": "../images/image-6.jpg"
+  },
+  {
+    "category": "Development",
+    "categoryClass": "category-development",
+    "title": "Highload Software Architecture",
+    "price": "$600",
+    "instructor": "Brooklyn Simmons",
+    "imageUrl": "../images/image-7.jpg"
+  },
+  {
+    "category": "HR & Recruiting",
+    "categoryClass": "category-hr-recruiting",
+    "title": "Human Resources – Selection and Recruitment",
+    "price": "$150",
+    "instructor": "Kathryn Murphy",
+    "imageUrl": "../images/image-8.jpg"
+  },
+  {
+    "category": "Design",
+    "categoryClass": "category-design",
+    "title": "User Experience. Human-centered Design",
+    "price": "$240",
+    "instructor": "Cody Fisher",
+    "imageUrl": "../images/image-9.jpg"
+  }
+]
